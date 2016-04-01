@@ -10,7 +10,7 @@ import com.demo.service.UserService;
  
 @Controller
 public class UserController {
- 
+	
 	@Autowired
 	private UserService userService;
 	
